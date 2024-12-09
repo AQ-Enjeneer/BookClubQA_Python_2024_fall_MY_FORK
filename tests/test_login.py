@@ -1,5 +1,5 @@
 import allure
-from Data.data import *
+from Data.data import invalid_login, valid_password
 
 
 def test_login_as_tutor_btn_create_listing(header, login):
